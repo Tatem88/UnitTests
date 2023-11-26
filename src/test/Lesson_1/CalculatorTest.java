@@ -1,4 +1,4 @@
-package test;
+package test.Lesson_1;
 
 import Lesson_1.Calculator;
 import org.junit.jupiter.api.*;
